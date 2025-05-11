@@ -2,7 +2,7 @@ function showSurprise(){
     const gif = document.getElementById("gif");
     gif.style.display = "block";
 
-    document.getElementById("main-title").innerText = "You are the best mom ever! 💖THANK YOU FOR EVERYTHING!💖 WE LOVE YOU!";
+    document.getElementById("main-title").innerText = "You are the best mom ever! 💖THANK YOU FOR EVERYTHING! WE LOVE YOU!💖";
     document.getElementById("subtext").innerText = "FROM CHARRIE, CHATHYLYDE, CHAEANNA";
 
     for(let i=0; i<20; i++){
