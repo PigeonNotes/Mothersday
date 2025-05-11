@@ -3,7 +3,7 @@ function showSurprise(){
     gif.style.display = "block";
 
     document.getElementById("main-title").innerText = "You are the best mom ever!";
-    document.getElementById("subtext").innerText = "💖THANK YOU FOR EVERYTHING!💖";
+    document.getElementById("subtext").innerText = "💖THANK YOU FOR EVERYTHING, WE LOVE YOU! FROM CHARRIE, CLYDE, CHAENNA💖";
 
     for(let i=0; i<20; i++){
         const flower = document.createElement("div");
